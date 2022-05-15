@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Sequence.dir/Dynamic_allocation.cpp.obj"
+  "CMakeFiles/Sequence.dir/Static_allocation.cpp.obj"
   "CMakeFiles/Sequence.dir/main.cpp.obj"
   "Sequence.exe"
   "Sequence.exe.manifest"

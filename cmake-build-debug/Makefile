@@ -128,6 +128,54 @@ Sequence/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sequence.dir\build.make CMakeFiles/Sequence.dir/build
 .PHONY : Sequence/fast
 
+Dynamic_allocation.obj: Dynamic_allocation.cpp.obj
+.PHONY : Dynamic_allocation.obj
+
+# target to build an object file
+Dynamic_allocation.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sequence.dir\build.make CMakeFiles/Sequence.dir/Dynamic_allocation.cpp.obj
+.PHONY : Dynamic_allocation.cpp.obj
+
+Dynamic_allocation.i: Dynamic_allocation.cpp.i
+.PHONY : Dynamic_allocation.i
+
+# target to preprocess a source file
+Dynamic_allocation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sequence.dir\build.make CMakeFiles/Sequence.dir/Dynamic_allocation.cpp.i
+.PHONY : Dynamic_allocation.cpp.i
+
+Dynamic_allocation.s: Dynamic_allocation.cpp.s
+.PHONY : Dynamic_allocation.s
+
+# target to generate assembly for a file
+Dynamic_allocation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sequence.dir\build.make CMakeFiles/Sequence.dir/Dynamic_allocation.cpp.s
+.PHONY : Dynamic_allocation.cpp.s
+
+Static_allocation.obj: Static_allocation.cpp.obj
+.PHONY : Static_allocation.obj
+
+# target to build an object file
+Static_allocation.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sequence.dir\build.make CMakeFiles/Sequence.dir/Static_allocation.cpp.obj
+.PHONY : Static_allocation.cpp.obj
+
+Static_allocation.i: Static_allocation.cpp.i
+.PHONY : Static_allocation.i
+
+# target to preprocess a source file
+Static_allocation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sequence.dir\build.make CMakeFiles/Sequence.dir/Static_allocation.cpp.i
+.PHONY : Static_allocation.cpp.i
+
+Static_allocation.s: Static_allocation.cpp.s
+.PHONY : Static_allocation.s
+
+# target to generate assembly for a file
+Static_allocation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sequence.dir\build.make CMakeFiles/Sequence.dir/Static_allocation.cpp.s
+.PHONY : Static_allocation.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -161,6 +209,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Sequence
+	@echo ... Dynamic_allocation.obj
+	@echo ... Dynamic_allocation.i
+	@echo ... Dynamic_allocation.s
+	@echo ... Static_allocation.obj
+	@echo ... Static_allocation.i
+	@echo ... Static_allocation.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

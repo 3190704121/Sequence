@@ -6,9 +6,33 @@
 
 #IncludeRegexTransform: 
 
-E:/408/data_structure/Linear/Sequence/main.cpp
+E:/408/data_structure/Linear/Sequence/Dynamic_allocation.cpp
+Dynamic_allocation.h
+E:/408/data_structure/Linear/Sequence/Dynamic_allocation.h
 stdio.h
 -
-stdbool.h
+stdlib.h
 -
+malloc.h
+E:/408/data_structure/Linear/Sequence/malloc.h
+
+E:/408/data_structure/Linear/Sequence/Dynamic_allocation.h
+
+E:/408/data_structure/Linear/Sequence/Header_file.h
+stdio.h
+-
+stdlib.h
+-
+malloc.h
+E:/408/data_structure/Linear/Sequence/malloc.h
+Static_allocation.h
+E:/408/data_structure/Linear/Sequence/Static_allocation.h
+Dynamic_allocation.h
+E:/408/data_structure/Linear/Sequence/Dynamic_allocation.h
+
+E:/408/data_structure/Linear/Sequence/Static_allocation.h
+
+E:/408/data_structure/Linear/Sequence/main.cpp
+Header_file.h
+E:/408/data_structure/Linear/Sequence/Header_file.h
 

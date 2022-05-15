@@ -8,6 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "E:/408/data_structure/Linear/Sequence/Dynamic_allocation.cpp" "E:/408/data_structure/Linear/Sequence/cmake-build-debug/CMakeFiles/Sequence.dir/Dynamic_allocation.cpp.obj"
+  "E:/408/data_structure/Linear/Sequence/Static_allocation.cpp" "E:/408/data_structure/Linear/Sequence/cmake-build-debug/CMakeFiles/Sequence.dir/Static_allocation.cpp.obj"
   "E:/408/data_structure/Linear/Sequence/main.cpp" "E:/408/data_structure/Linear/Sequence/cmake-build-debug/CMakeFiles/Sequence.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

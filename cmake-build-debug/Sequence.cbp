@@ -80,6 +80,21 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="E:/408/data_structure/Linear/Sequence/Dynamic_allocation.cpp">
+			<Option target="Sequence"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Linear/Sequence/Dynamic_allocation.h">
+			<Option target="Sequence"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Linear/Sequence/Header_file.h">
+			<Option target="Sequence"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Linear/Sequence/Static_allocation.cpp">
+			<Option target="Sequence"/>
+		</Unit>
+		<Unit filename="E:/408/data_structure/Linear/Sequence/Static_allocation.h">
+			<Option target="Sequence"/>
+		</Unit>
 		<Unit filename="E:/408/data_structure/Linear/Sequence/main.cpp">
 			<Option target="Sequence"/>
 		</Unit>
